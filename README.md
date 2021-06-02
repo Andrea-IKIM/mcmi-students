@@ -1,2 +1,6 @@
-# mcmi-students
-Information for students. Courses, open thesis, hints and how-tos.
+# Information for students
+
+.. content will follow .. stay tuned.
+* theses topics
+* how-tos and guidelines
+* information on courses 
