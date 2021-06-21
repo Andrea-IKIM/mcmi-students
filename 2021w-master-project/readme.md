@@ -1,1 +1,1 @@
-# Master Project "Multimodal Computing and Machine Intelligence" (WiSe2021/22)
+# Master Project "Multimodal Computing and Machine Intelligence"
